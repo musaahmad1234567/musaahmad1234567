@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Musa](img/WhatsApp%20Image%202026-09-10%20at%2010.24.39.jpeg)
+![Musa](<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e484e05c-291c-4cb2-b29f-be794697f244" />
+)
 <!--
 **musaahmad1234567/musaahmad1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

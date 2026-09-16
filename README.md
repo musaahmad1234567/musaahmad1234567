@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋I'm Musa Ahmad Shiddiq
 
 ![Musa](<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e484e05c-291c-4cb2-b29f-be794697f244" />
 )
@@ -20,9 +20,39 @@ Here are some ideas to get you started:
 
 ![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ1eWprdXdub3JmdWE1Ymc2ZjY0NTdzcDk0dG9kbDA3cGR0MjRxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ae7SI3LoPYj8Q/giphy.gif)
 
-- 🔭 I’m currently working on **Hostinger and vercel**
-- 🌱 I’m currently learning **OOP**
-- 😊💕😘👌😁🙌(^///^)
+💻 Student | Beginner Developer | Tech Enthusiast
+
+Welcome to my GitHub! 🚀
+I'm currently learning and exploring the world of Information Technology, especially programming and web development.
+
+👨‍💻 About Me
+🎓 Currently studying Information Technology
+🌱 Currently learning Dart, Flutter, HTML, CSS, and JavaScript
+💡 Interested in Web Development & Software Development
+🔨 Building small projects to improve my programming skills
+📚 Always learning something new
+🎯 Goal: Become a skilled developer and build useful technology
+🛠️ Technologies I'm Learning
+
+<p> <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,git,github,vscode" /> </p>
+
+🚀 Current Projects
+
+🍔 MiniFood
+A food ordering website designed to make it easier for users to browse menus, order food, and reserve tables.
+
+💻 Learning Projects
+Small programming projects created while learning programming concepts, OOP, and application development.
+
+📈 My Learning Journey
+Programming       █████████░  Learning
+Web Development   ████████░░  Learning
+Flutter           ██████░░░░  Exploring
+Git & GitHub      ████████░░  Learning
+UI/UX              ██████░░░░  Exploring
+⚡ Fun Fact
+
+I believe the best way to learn programming is by building things and making mistakes along the way.
 
 ##### Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

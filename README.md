@@ -1,7 +1,6 @@
 ## Hi there 👋I'm Musa Ahmad Shiddiq
 
-![Musa](<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e484e05c-291c-4cb2-b29f-be794697f244" />
-)
+
 <!--
 **musaahmad1234567/musaahmad1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,6 +52,9 @@ UI/UX              ██████░░░░  Exploring
 ⚡ Fun Fact
 
 I believe the best way to learn programming is by building things and making mistakes along the way.
+
+![Musa](<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e484e05c-291c-4cb2-b29f-be794697f244" />
+)
 
 ##### Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />

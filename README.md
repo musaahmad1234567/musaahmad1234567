@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![Musa](img/github-header-banner.png)
+
 <!--
 **musaahmad1234567/musaahmad1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on **Hostinger and vercel**
+- 🌱 I’m currently learning **OOP**
+- 😊💕😘👌😁🙌(^///^)
 
+![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ1eWprdXdub3JmdWE1Ymc2ZjY0NTdzcDk0dG9kbDA3cGR0MjRxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ae7SI3LoPYj8Q/giphy.gif)

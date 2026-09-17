@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there 👋I'm Musa Ahmad Shiddiq
+
 
 
 ![Musa](img/github-header-banner.png)
@@ -18,6 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<<<<<<< HEAD
+=======
+
+![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ1eWprdXdub3JmdWE1Ymc2ZjY0NTdzcDk0dG9kbDA3cGR0MjRxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ae7SI3LoPYj8Q/giphy.gif)
+
+>>>>>>> 0b81d77283ee958d7721f6b87b335b8cd9c7af78
 💻 Student | Beginner Developer | Tech Enthusiast
 
 Welcome to my GitHub! 🚀
@@ -31,6 +38,12 @@ I'm currently learning and exploring the world of Information Technology, especi
 📚 Always learning something new
 🎯 Goal: Become a skilled developer and build useful technology
 🛠️ Technologies I'm Learning
+<<<<<<< HEAD
+=======
+
+<p> <img src="https://skillicons.dev/icons?i=dart,flutter,html,css,js,git,github,vscode" /> </p>
+
+>>>>>>> 0b81d77283ee958d7721f6b87b335b8cd9c7af78
 🚀 Current Projects
 
 🍔 MiniFood
@@ -49,6 +62,11 @@ UI/UX              ██████░░░░  Exploring
 
 I believe the best way to learn programming is by building things and making mistakes along the way.
 
+<<<<<<< HEAD
+=======
+![Musa](<img width="2125" height="575" alt="github-header-banner" src="https://github.com/user-attachments/assets/e484e05c-291c-4cb2-b29f-be794697f244" />
+)
+>>>>>>> 0b81d77283ee958d7721f6b87b335b8cd9c7af78
 
 ##### Skills
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -65,7 +83,12 @@ I believe the best way to learn programming is by building things and making mis
 ![https://linktr.ee/musa04](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 
 ##### My Github Stats
+<<<<<<< HEAD
 
 
 
 ![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ1eWprdXdub3JmdWE1Ymc2ZjY0NTdzcDk0dG9kbDA3cGR0MjRxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ae7SI3LoPYj8Q/giphy.gif)
+=======
+[![Musaahmad's GitHub stats](https://github-readme-stats-vercel.app/api?username=musaahmad1234567)](https://github.com)]
+
+>>>>>>> 0b81d77283ee958d7721f6b87b335b8cd9c7af78

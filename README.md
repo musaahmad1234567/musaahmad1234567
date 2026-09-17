@@ -21,19 +21,19 @@ Here are some ideas to get you started:
 
 💻 Student | Beginner Developer | Tech Enthusiast
 
-Welcome to my GitHub! 🚀
+Welcome to my GitHub! 
 I'm currently learning and exploring the world of Information Technology, especially programming and web development.
 
-👨‍💻 About Me
-🎓 Currently studying Information Technology
-🌱 Currently learning Dart, Flutter, HTML, CSS, and JavaScript
-💡 Interested in Web Development & Software Development
-🔨 Building small projects to improve my programming skills
-📚 Always learning something new
-🎯 Goal: Become a skilled developer and build useful technology
-🛠️ Technologies I'm Learning
+About Me
+Currently studying Information Technology
+Currently learning Dart, Flutter, HTML, CSS, and JavaScript
+Interested in Web Development & Software Development
+Building small projects to improve my programming skills
+Always learning something new
+Goal: Become a skilled developer and build useful technology
+Technologies I'm Learning
 
-🚀 Current Projects :
+Current Projects :
 
 🍔 MiniFood
 A food ordering website designed to make it easier for users to browse menus, order food, and reserve tables.

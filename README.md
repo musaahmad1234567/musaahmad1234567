@@ -1,4 +1,4 @@
-## Hi!
+## Hi!👋
 
 <p align="center">
   <img 
@@ -7,7 +7,6 @@
   />
 </p>
 
-![Musa](img/github-header-banner.png)
 
 <!--
 **musaahmad1234567/musaahmad1234567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -86,9 +85,12 @@ Thanks for stopping by! 🚀
 
 ###
 
-![welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z5YTR6eGFhN3RtbG55NWttdGI4ODhsb2lzamN6MG03Z2hibjFpbSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3ohzdIuqJoo8QdKlnW/giphy.gif)
-
-###
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z5YTR6eGFhN3RtbG55NWttdGI4ODhsb2lzamN6MG03Z2hibjFpbSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/3ohzdIuqJoo8QdKlnW/giphy.gif" 
+    width="100%"
+  />
+</p>
 
 ---
 

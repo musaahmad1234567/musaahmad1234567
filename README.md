@@ -1,6 +1,11 @@
-## Hello Everyone 👋 Welcome to may page
+## Hi!
 
-
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2llY3g5NHRmcnZucmpnZzVxaWRsZDhqbnRqaTNiZ3NvbjZhNDQyciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12zFlnyyTRmIkU/giphy.gif" 
+    width="100%"
+  />
+</p>
 
 ![Musa](img/github-header-banner.png)
 
@@ -19,35 +24,27 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💻 Student | Beginner Developer | Tech Enthusiast
+## 👋 Hello, I'm Musa!
 
-Welcome to my GitHub! 
-I'm currently learning and exploring the world of Information Technology, especially programming and web development.
+Welcome to my GitHub profile! I'm an Information Technology student who enjoys learning programming, exploring new technologies, and building small projects.
 
-About Me
-Currently studying Information Technology
-Currently learning Dart, Flutter, HTML, CSS, and JavaScript
-Interested in Web Development & Software Development
-Building small projects to improve my programming skills
-Always learning something new
-Goal: Become a skilled developer and build useful technology
-Technologies I'm Learning
+### 💻 Tech Stack
 
-Current Projectss:
+- Languages: HTML, CSS, JavaScript, PHP, Dart
+- Frameworks: Laravel, Flutter
+- Tools: Git, GitHub, VS Code, Canva
+- AI Tools: ChatGPT, Gemini, NotebookLM
 
-MiniFood
-A food ordering website designed to make it easier for users to browse menus, order food, and reserve tables.
+### 🚀 Current Projects
 
-Learning Projects
-Small programming projects created while learning programming concepts, OOP, and application development.
+- MiniFood — Food ordering website with menu browsing, ordering, and table reservation.
+- Learning Projects — Small projects to practice programming and OOP.
 
-Fun Fact
-I believe the best way to learn programming is by building things and making mistakes along the way.
+---
 
-##### Skills
+Thanks for stopping by! 🚀
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,laravel,js,php,dart&theme=light)](https://skillicons.dev)
-
+### 💻 Tech Stack
 
 
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -59,7 +56,7 @@ I believe the best way to learn programming is by building things and making mis
 <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
 <img src="https://img.shields.io/badge/notebooklm-000000?style=for-the-badge&logo=notebooklm&logoColor=white" />
 
-##### Contact With Me
+### 📫 Connect With Me
 ![https://instagram.com/msahmdshdq_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://linktr.ee/musa04](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 

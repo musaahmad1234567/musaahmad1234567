@@ -33,7 +33,7 @@ Always learning something new
 Goal: Become a skilled developer and build useful technology
 Technologies I'm Learning
 
-Current Projects :
+Current Projectss:
 
 🍔 MiniFood
 A food ordering website designed to make it easier for users to browse menus, order food, and reserve tables.

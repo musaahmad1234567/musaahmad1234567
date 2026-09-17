@@ -41,13 +41,6 @@ A food ordering website designed to make it easier for users to browse menus, or
 💻 Learning Projects
 Small programming projects created while learning programming concepts, OOP, and application development.
 
-📈 My Learning Journey
-Programming       █████████░  Learning
-Web Development   ████████░░  Learning
-Flutter           ██████░░░░  Exploring
-Git & GitHub      ████████░░  Learning
-UI/UX              ██████░░░░  Exploring
-
 ⚡ Fun Fact
 
 I believe the best way to learn programming is by building things and making mistakes along the way.

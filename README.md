@@ -47,6 +47,7 @@ Web Development   ████████░░  Learning
 Flutter           ██████░░░░  Exploring
 Git & GitHub      ████████░░  Learning
 UI/UX              ██████░░░░  Exploring
+
 ⚡ Fun Fact
 
 I believe the best way to learn programming is by building things and making mistakes along the way.
@@ -72,7 +73,21 @@ I believe the best way to learn programming is by building things and making mis
 
 ##### My Github Stats
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/musaahmad1234567 /musaahmad1234567 /snake-output/snake.svg" alt="Snake animation" />
 
+###
+
+<p data-importer="text" align="left">Hello World!!</p>
+
+###
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/musaahmad1234567 /musaahmad1234567 /pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/musaahmad1234567 /musaahmad1234567 /pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/musaahmad1234567 /musaahmad1234567 /pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 ![Welcome](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXQ1eWprdXdub3JmdWE1Ymc2ZjY0NTdzcDk0dG9kbDA3cGR0MjRxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ae7SI3LoPYj8Q/giphy.gif)
 
